@@ -68,12 +68,12 @@
 > 🔥 **Easily Deploy & Run JBM-XMD on Your Server**
 >
 <div align="left">
-    <a href="https://github.com/kipo77/JBM-XMD/fork">
+    <a href="https://github.com/JBM-X/JBM-XMD/fork">
         <img title="JBM-XMD" src="https://img.shields.io/badge/FORK%20JBM%20MD-FF5733?style=for-the-badge&logo=stackshare" />
     </a>
-<br>
+### Pair with WhatsApp 
   <div align="left">
-    <a href="https://kipo77-scanner.onrender.com">
+    <a href="https://JBM-X-scanner.onrender.com">
         <img title="JBM-XMD Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45" />
     </a>
 </div>
