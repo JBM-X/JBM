@@ -81,7 +81,7 @@
   
 <h2 style="color: #8E44AD; font-family: 'Courier New';">DEPLOY TO HEROKU</h2>
 <p align="left">
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Kipo77/JBM-XMD">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/JBM-X/JBM-XMD">
         <img src="https://img.shields.io/badge/Heroku%20Deploy-9B59B6?style=for-the-badge&logo=heroku" width="220" height="38.45" />
     </a>
 </p>
